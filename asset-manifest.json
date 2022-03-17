@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/BMI_track/static/css/main.e279a5ab.chunk.css",
-    "main.js": "/BMI_track/static/js/main.8c0dfa86.chunk.js",
-    "main.js.map": "/BMI_track/static/js/main.8c0dfa86.chunk.js.map",
-    "runtime~main.js": "/BMI_track/static/js/runtime~main.7108874b.js",
-    "runtime~main.js.map": "/BMI_track/static/js/runtime~main.7108874b.js.map",
-    "static/js/2.7ef3e359.chunk.js": "/BMI_track/static/js/2.7ef3e359.chunk.js",
-    "static/js/2.7ef3e359.chunk.js.map": "/BMI_track/static/js/2.7ef3e359.chunk.js.map",
+    "main.css": "/BMI_track/static/css/main.7d1e5ce1.css",
+    "main.js": "/BMI_track/static/js/main.1db12d9f.js",
     "index.html": "/BMI_track/index.html",
-    "precache-manifest.0b808c03eda2956e54a2cf72183f8ff8.js": "/BMI_track/precache-manifest.0b808c03eda2956e54a2cf72183f8ff8.js",
-    "service-worker.js": "/BMI_track/service-worker.js",
-    "static/css/main.e279a5ab.chunk.css.map": "/BMI_track/static/css/main.e279a5ab.chunk.css.map"
-  }
+    "main.7d1e5ce1.css.map": "/BMI_track/static/css/main.7d1e5ce1.css.map",
+    "main.1db12d9f.js.map": "/BMI_track/static/js/main.1db12d9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d1e5ce1.css",
+    "static/js/main.1db12d9f.js"
+  ]
 }
