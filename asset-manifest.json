@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BMI_track/static/css/main.7d1e5ce1.css",
-    "main.js": "/BMI_track/static/js/main.1db12d9f.js",
+    "main.css": "/BMI_track/static/css/main.77c4b697.css",
+    "main.js": "/BMI_track/static/js/main.05790418.js",
     "index.html": "/BMI_track/index.html",
-    "main.7d1e5ce1.css.map": "/BMI_track/static/css/main.7d1e5ce1.css.map",
-    "main.1db12d9f.js.map": "/BMI_track/static/js/main.1db12d9f.js.map"
+    "main.77c4b697.css.map": "/BMI_track/static/css/main.77c4b697.css.map",
+    "main.05790418.js.map": "/BMI_track/static/js/main.05790418.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d1e5ce1.css",
-    "static/js/main.1db12d9f.js"
+    "static/css/main.77c4b697.css",
+    "static/js/main.05790418.js"
   ]
 }
