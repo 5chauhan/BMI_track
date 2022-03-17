@@ -1,5 +1,5 @@
 body {
-  background-color: #806315;
+  background-color: #331e36;
   margin: auto;
   width: 100%;
   border: 2px solid rgb(196, 199, 196);
@@ -29,9 +29,9 @@ label {
 }
 
 .calculate-btn {
-  background-color: #1d2347;
+  background-color: #6775c7;
   padding: 15px 50px;
-  color: rgb(163, 153, 153);
+  color: rgb(20, 3, 3);
   font-size: 16px;
   border-radius: 44px;
   cursor: pointer;
@@ -57,13 +57,13 @@ label {
 }
 
 .calculate-btn:disabled {
-  border: 1px solid #999999;
-  background-color: #cccccc;
-  color: #666666;
+  border: 1px solid #554646;
+  background-color: #1c1c25;
+  color: #eee8e8;
   cursor: default;
   height: 50px;
   width: 250px;
-  margin-top: 10npm startpx;
+  margin-top: 20px;
 }
 
 .calculate-btn:disabled:hover {
@@ -96,6 +96,7 @@ label {
 
 .delete-btn {
   background-color: #e74c3c;
+  width: 100px;
   color: white;
   border: none;
   border-radius: 50%;
@@ -103,8 +104,10 @@ label {
   padding: 5px 9px;
   cursor: pointer;
   position: absolute;
-  top: -12px;
-  right: -12px;
+  top: 2px;
+  right: 2px;
+  
+  
 }
 
 .delete-btn:focus {

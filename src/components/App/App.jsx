@@ -45,7 +45,7 @@ const App = () => {
   return (
     <div className='container'>
       <div className='row center'>
-        <h1 className='white-text'> BMI Tracker </h1>
+        <h1 className='white-text'> BMI Calculator </h1>
       </div>
       <div className='row'>
         <div className='col m12 s12'>
@@ -53,7 +53,7 @@ const App = () => {
           <Bar labelData={data.date} bmiData={data.bmi} />
           <div>
             <div className='row center'>
-              <h4 className='white-text'>7 Day Data</h4>
+              <h4 className='white-text'>7 Days BMI Track</h4>
             </div>
             <div className='data-container row'>
               {state.length > 0 ? (
